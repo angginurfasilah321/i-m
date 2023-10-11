@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS Location;
+DROP TABLE IF EXISTS Category;
+DROP TABLE IF EXISTS Tenant;
+DROP TABLE IF EXISTS Sales_Data;
+DROP TABLE IF EXISTS Revenue_Sharing;
+DROP TABLE IF EXISTS Comparative_Analysis;
+DROP TABLE IF EXISTS Performance_Metrics;
